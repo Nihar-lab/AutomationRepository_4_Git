@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-20T17:01:06 IST" name="Default suite" finished-at="2024-12-20T17:01:13 IST" duration-ms="7865">
+    <groups>
+    </groups>
+    <test started-at="2024-12-20T17:01:06 IST" name="Default test" finished-at="2024-12-20T17:01:13 IST" duration-ms="7865">
+      <class name="project.TC_DWS_005_TEST">
+        <test-method is-config="true" signature="reportConfig()[pri:0, instance:project.TC_DWS_005_TEST@7ef82753]" started-at="2024-12-20T17:01:05 IST" name="reportConfig" finished-at="2024-12-20T17:01:06 IST" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportConfig -->
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:project.TC_DWS_005_TEST@7ef82753]" started-at="2024-12-20T17:01:06 IST" name="launchBrowser" finished-at="2024-12-20T17:01:11 IST" duration-ms="5584" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:project.TC_DWS_005_TEST@7ef82753]" started-at="2024-12-20T17:01:11 IST" name="login" finished-at="2024-12-20T17:01:12 IST" duration-ms="1038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="clickOnBooks()[pri:0, instance:project.TC_DWS_005_TEST@7ef82753]" started-at="2024-12-20T17:01:12 IST" name="clickOnBooks" finished-at="2024-12-20T17:01:13 IST" duration-ms="973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnBooks -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:project.TC_DWS_005_TEST@7ef82753]" started-at="2024-12-20T17:01:13 IST" name="closeBrowser" finished-at="2024-12-20T17:01:13 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="reportBackup()[pri:0, instance:project.TC_DWS_005_TEST@7ef82753]" started-at="2024-12-20T17:01:14 IST" name="reportBackup" finished-at="2024-12-20T17:01:14 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportBackup -->
+      </class> <!-- project.TC_DWS_005_TEST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
